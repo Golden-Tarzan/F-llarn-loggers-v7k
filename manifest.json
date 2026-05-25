@@ -1,0 +1,24 @@
+{
+  "name": "FÄLLARN SIMULATOR",
+  "short_name": "FÄLLARN",
+  "description": "Professionell trädfällning & skogsröjningssimulator",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0e06",
+  "theme_color": "#4a7a2a",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "500x460",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "500x460",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
